@@ -15,7 +15,7 @@ console.log('typeof num: '+typeof num)
 console.log('------------------------------------------------')
 
 //Number to String
-let str2=String(num);
+let str2=String(num); //(String)num
 console.log (str2)
 console.log('typeof str2: '+typeof str2)
 
