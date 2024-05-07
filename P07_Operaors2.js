@@ -27,6 +27,9 @@ console.log(b-=2); //16
 console.log(b=b-2); //14
 console.log(b/=4); //3.5
 
+// && AND Operatörü sağıdaki ve solundaki koşullardan en az biri false ise false olur
+// || OR Operatörü sağındaki veya solundaki ifadelerden en az biri doğru ise true verir
+
 
 
 
